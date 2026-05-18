@@ -32,7 +32,7 @@ AI-powered medical assistant built using Retrieval-Augmented Generation (RAG), s
 
 ### Technologies
 
-Python · OpenAI API · LangChain · Vector Databases · Embeddings · Semantic Search
+Python · LangChain · Vector Databases · Embeddings · Semantic Search
 
 🔗 Repository:
 https://github.com/lucasmgodinho/medical-assistant-rag-llm
